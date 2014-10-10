@@ -3,13 +3,13 @@ This simple demo shows how a StateMachine utility works in a PureMVC application
 
 The pseudo-classes are written in PureMVC's optional built-in style.
 
-* [Discussion](http://forums.puremvc.org/index.php?board=66.0)
+* [Discussion](http://forums.puremvc.org/index.php?topic=2111)
 
 ## Screenshot
-![PureMVC JavaScript Demo: Lockable Door](https://github.com/sshams/puremvc-js-demo-lockabledoor/blob/master/images/screenshot.png)
+![PureMVC JavaScript Demo: Lockable Door](https://github.com/PureMVC/puremvc-js-demo-lockabledoor/blob/master/images/screenshot.png)
 
 ## Status
-Production - [Version 1.0](https://github.com/sshams/puremvc-js-demo-lockabledoor/blob/master/VERSION)
+Production - [Version 1.0](https://github.com/PureMVC/puremvc-js-demo-lockabledoor/blob/master/VERSION)
 
 ## Platforms / Technologies
 * [JavaScript](http://en.wikipedia.org/wiki/JavaScript)
