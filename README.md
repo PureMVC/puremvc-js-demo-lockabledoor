@@ -13,6 +13,9 @@ The pseudo-classes are written in PureMVC's optional built-in style.
 ## Status
 Production - [Version 1.0](https://github.com/PureMVC/puremvc-js-demo-lockabledoor/blob/master/VERSION)
 
+## Utilities
+* [StateMachine](https://github.com/PureMVC/puremvc-js-util-statemachine/wiki)
+
 ## Platforms / Technologies
 * [JavaScript](http://en.wikipedia.org/wiki/JavaScript)
 
