@@ -1,5 +1,7 @@
 ## [PureMVC](http://puremvc.github.com/) [JavaScript](https://github.com/PureMVC/puremvc-js-multicore-framework/wiki) Demo - Lockable Door
-This simple demo shows how a StateMachine utility works in a PureMVC application. With click of buttons the Application can transition from OPENED to CLOSED to LOCKED state, use of entry, exit guards and also sends changed announcemenets. The demo was ported from an AS3 implemenation http://mariusht.com/blog/2009/07/14/puremvc-statemachine-lockable-door-demo/. 
+This simple demo shows how the [StateMachine utility](https://github.com/PureMVC/puremvc-js-util-statemachine/wiki) works in a PureMVC application. 
+
+With click of buttons the Application can transition from OPENED to CLOSED to LOCKED state. Use of entry and exit guards. Also sends changed announcements. The demo was ported from an AS3 implemenation http://mariusht.com/blog/2009/07/14/puremvc-statemachine-lockable-door-demo/. 
 
 The pseudo-classes are written in PureMVC's optional built-in style.
 
